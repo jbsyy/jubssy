@@ -1,0 +1,88 @@
+body
+{
+font-family: Arial, Helvetica, Sans-serif;
+margin: 0;
+}
+
+#BG BODY
+{
+   position: relative;
+	
+}
+img
+{
+	width: 100%;
+	height: 600px;
+}
+
+#white
+{
+	top: 8%;
+	right: 5%;
+	position:absolute;
+	background-color: white;
+	height: 500px;
+	width: 1210px;
+}
+#Prog
+{
+	font-size: 20px;
+	padding-top:40px;
+	padding-left:40px;
+	
+}
+#prog
+{
+	
+	color: #DB545A;
+	font-size:35px;
+}
+#Miss
+{
+	font-size: 20px;
+	padding-left:40px;
+}
+#miss
+{
+	color: #F1C513;
+	font-size:35px;
+}
+#About
+{
+	font-size: 20px;
+	right: 45%;
+	top: 8%;
+	position:absolute;
+}
+#about
+{
+	color: #18AC99;
+	font-size:35px;
+}
+#Award
+{
+	font-size: 20px;
+	right: 45%;
+	top: 50%;
+	position:absolute;
+    
+}
+#award
+{
+	color: #858E99;
+	font-size:35px;
+}
+#CHEF
+{
+	float:right;
+	top: 0%;
+	right: 0%;
+	position:absolute;
+
+}
+#CHEF img
+{
+   height:501px;
+   width:460px;" 
+}
+
